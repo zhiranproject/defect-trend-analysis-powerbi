@@ -1,7 +1,6 @@
-# Defect Trend & Process Stability Analysis
-
 ## Overview
-This project analyzes defect data using Power BI to evaluate process stability and identify patterns in defect occurrence over time.
+This project analyzes manufacturing defect data using Power BI to evaluate process stability and identify patterns in defect occurrence over time.
+# Defect Trend & Process Stability Analysis
 
 ## Objective
 To monitor defect trends, assess process consistency, and provide data-driven recommendations to improve product quality.
